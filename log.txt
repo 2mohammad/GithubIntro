@@ -1,0 +1,17 @@
+commit 735fedd9f490e8aefcf46ec61e1a7c9d45e3fecf
+Author: Mohammad Hassan <mohammadhassan@mohammads-mbp.lan>
+Date:   Sun Jun 14 16:47:36 2020 -0500
+
+    removing third.txt
+
+commit ffdd0aafc3076353750a310c879c607108843cda
+Author: Mohammad Hassan <mohammadhassan@mohammads-mbp.lan>
+Date:   Sun Jun 14 16:45:54 2020 -0500
+
+    adding fourth.txt
+
+commit a4a9360eff5477bd2632c43a3a406084ce0c5ead
+Author: Mohammad Hassan <mohammadhassan@mohammads-mbp.lan>
+Date:   Sun Jun 14 16:44:45 2020 -0500
+
+    adding third.txt
